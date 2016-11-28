@@ -13,7 +13,7 @@
 *Baekjoon*<br>
 
 | # | Title | Solution | Difficulty | isSolved |
-|---| ---| --- | ---|
+|---| ---| --- | ---| ---|
 | 10214 | [Baseball](https://acmicpc.net/problem/10214) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BaseBall/MainBaseBall.java) | - | TRUE |
 | 2193 | [BiFriend Number](https://acmicpc.net/problem/2193)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BiFriendNum/MainPro2193.java)| - | TRUE |
 | 10835 | [CardGame](https://acmicpc.net/problem/10835)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/CardGame/MainPro10835.java)| - | FALSE |
