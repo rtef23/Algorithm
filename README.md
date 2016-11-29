@@ -18,4 +18,12 @@
 | 2193 | [BiFriend Number](https://acmicpc.net/problem/2193)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BiFriendNum/MainPro2193.java)| - | TRUE |
 | 10835 | [CardGame](https://acmicpc.net/problem/10835)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/CardGame/MainPro10835.java)| - | FALSE |
 | 11966 | [isPow2](https://acmicpc.net/problem/11966)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Chk2Pow2/MainPro11966.java)| - | TRUE|
-| 10472 | []||||
+| 10472 | ||||
+
+
+
+*HandWriting*<br>
+
+| # | Title | Solution | Difficulty | isSolved|
+|---|---|---|---|---|
+||||||
