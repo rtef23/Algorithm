@@ -52,4 +52,5 @@
 |---|---|---|---|---|---|
 |1.| 263 | [Ugly number](https://leetcode.com/problems/ugly-number/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/UglyNumber/UglyNumber.java)| easy | TRUE |
 |2.| 283 | [move Zero](https://leetcode.com/problems/move-zeroes/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/moveZero/moveZero.java)| easy | TRUE |
+|3.| 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)| [JAVA]()| medium | FALSE |
 |||||||
