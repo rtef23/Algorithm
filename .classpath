@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Algospot_f"/>
+	<classpathentry kind="src" path="BaekJoon"/>
+	<classpathentry kind="src" path="HandWriting"/>
+	<classpathentry kind="src" path="others"/>
+	<classpathentry kind="src" path="Sort"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
