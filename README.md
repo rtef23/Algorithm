@@ -10,6 +10,7 @@
 | - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java)| - | TRUE |
 
 
+
 > ##**Baekjoon**<br>
 
 > > | # | Title | Solution | Difficulty | isSolved |
