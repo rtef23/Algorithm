@@ -1,6 +1,6 @@
-##**Algospot**<br>
+> ##**Algospot**<br>
 
-> | # | Title | Solution | Difficulty | isSolved |
+> > | # | Title | Solution | Difficulty | isSolved |
 |---| ---| --- | ---| ---|
 | - | [Boggle](https://algospot.com/judge/problem/read/BOGGLE) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/BoggleGame/MainBoggle.java) | - | TRUE |
 | - | [Fence](https://algospot.com/judge/problem/read/FENCE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/FENCE/MainFence.java)| - | TRUE |
@@ -10,9 +10,9 @@
 | - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java)| - | TRUE |
 
 
-##**Baekjoon**<br>
+> ##**Baekjoon**<br>
 
-> | # | Title | Solution | Difficulty | isSolved |
+> > | # | Title | Solution | Difficulty | isSolved |
 |---| ---| --- | ---| ---|
 | 10214 | [Baseball](https://acmicpc.net/problem/10214) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BaseBall/MainBaseBall.java) | - | TRUE |
 | 2193 | [BiFriend Number](https://acmicpc.net/problem/2193)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BiFriendNum/MainPro2193.java)| - | TRUE |
@@ -41,8 +41,8 @@
 ||||||
 
 
-##**HandWriting**<br>
+> ##**HandWriting**<br>
 
-> | # | Title | Solution | Difficulty | isSolved|
+> > | # | Title | Solution | Difficulty | isSolved|
 |---|---|---|---|---|
 ||||||
