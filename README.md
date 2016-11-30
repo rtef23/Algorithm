@@ -18,8 +18,27 @@
 | 2193 | [BiFriend Number](https://acmicpc.net/problem/2193)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BiFriendNum/MainPro2193.java)| - | TRUE |
 | 10835 | [CardGame](https://acmicpc.net/problem/10835)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/CardGame/MainPro10835.java)| - | FALSE |
 | 11966 | [isPow2](https://acmicpc.net/problem/11966)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Chk2Pow2/MainPro11966.java)| - | TRUE|
-| 10472 | ||||
-
+| 2156 | [drink wine](https://acmicpc.net/problem/2156)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DrinkWine/MainPro2156.java)| - | TRUE |
+| 2011 | [encrypt](https://acmicpc.net/problem/2011)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Encrypt/MainPro2011.java)| - | TRUE |
+| 8595 | [Hidden number](https://acmicpc.net/problem/8595)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/HiddenNum/MainPro8595.java)| - | TRUE |
+| 2014 | [Humble number](https://acmicpc.net/problem/2014)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/HumbleNumber/MainPro2014.java)| - | FALSE |
+| 12015 | [longest increasing sequence](https://acmicpc.net/problem/12015)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/IncNumSeq2/MainPro12015_2.java)| - | TRUE |
+| 12756 | [luxury restraunt](https://acmicpc.net/problem/12756)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/LuxuryRestraunt/MainPro12756.java)| - | TRUE |
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
 
 
 *HandWriting*<br>
