@@ -8,7 +8,7 @@
 |4.| - | [Lecture](https://algospot.com/judge/problem/read/LECTURE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/LECTURE/MainLecture.java)| - | TRUE |
 |5.| - | [NQueen](https://algospot.com/judge/problem/read/NQUEEN)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/NQueen/MainNQueen.java)| - | TRUE |
 |6.| - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java)| - | TRUE |
-
+|||||||
 
 > ##**Baekjoon**<br>
 
@@ -44,17 +44,12 @@
 |28.| 11726 | [2xN Tiling 1](https://acmicpc.net/problem/11726)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Tiling/MainPro11726.java)| - | TRUE |
 |29.| 11727 | [2xN Tiling 2](https://acmicpc.net/problem/11727)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Tiling/MainPro11727.java)| - | TRUE |
 |30.| 2133 | [fill Tile](https://acmicpc.net/problem/2133)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Tiling/MainPro2133.java)| - | TRUE |
-
+|||||||
 
 > ##**HandWriting**<br>
 
 > > || # | Title | Solution | Difficulty | isSolved|
 |---|---|---|---|---|---|
-|1.| 263 | [Ugly number](https://leetcode.com/problems/ugly-number/)| [JAVA]()| - | TRUE|
-|2.| |||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+|1.| 263 | [Ugly number](https://leetcode.com/problems/ugly-number/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/UglyNumber/UglyNumber.java)| easy | TRUE |
+|2.| 283 | [move Zero](https://leetcode.com/problems/move-zeroes/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/moveZero/moveZero.java)| easy | TRUE |
 |||||||
