@@ -48,6 +48,13 @@
 
 > ##**HandWriting**<br>
 
-> > | # | Title | Solution | Difficulty | isSolved|
-|---|---|---|---|---|
-||||||
+> > || # | Title | Solution | Difficulty | isSolved|
+|---|---|---|---|---|---|
+|1.| 263 | [Ugly number](https://leetcode.com/problems/ugly-number/)| [JAVA]()| - | TRUE|
+|2.| |||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
