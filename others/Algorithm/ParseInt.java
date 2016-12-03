@@ -28,7 +28,7 @@ public class ParseInt {
 		}
 		return positive * res;
 	}
-	public static int parseInt(char c){
+	private static int parseInt(char c){
 		if(c == '-')
 			return -1;
 		return c - '0';
