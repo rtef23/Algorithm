@@ -59,5 +59,5 @@
 
 > > || # | Title | Solution | Difficulty | isSolved |
 |---|---|---|---|---|---|
-|1.| - | [parse Int without parseInt()]| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/ParseInt.java)| - | TRUE |
+|1.| - | [parse Int without parseInt()](https://github.com/rtef23/Algorithm/blob/master/MDfiles/parseInt.md)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/ParseInt.java)| - | TRUE |
 |||||||
