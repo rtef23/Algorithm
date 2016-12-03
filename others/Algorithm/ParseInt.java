@@ -16,15 +16,15 @@ public class ParseInt {
 	public static int parseInt(String target){
 		int res = 0;
 		int positive = 1;
-		int maxlen = target.length() - 1;
-		for(int i = 0;i < target.length();i++){
+		int pos = 1;
+		for(int i = target.length() - 1;i >= 0;i--){
 			int t = parseInt(target.charAt(i));
 			if(i == 0 && t < 0){
 				positive = -1;
-				maxlen --;
 				continue;
 			}
-			res += (t * upper(10, maxlen--));
+			res += (t * pos);
+			pos *= 10;
 		}
 		return positive * res;
 	}
@@ -32,21 +32,5 @@ public class ParseInt {
 		if(c == '-')
 			return -1;
 		return c - '0';
-	}
-	public static int upper(int down, int up){
-		if(down == 0)
-			return 0;
-		if(down == 1)
-			return 1;
-		if(up == 1)
-			return down;
-		if(up == 0)
-			return 1;
-		if(up % 2 == 0){
-			int t = upper(down, up / 2);
-			return t * t;
-		}else{
-			return down * upper(down, up - 1);
-		}
 	}
 }
