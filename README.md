@@ -54,3 +54,10 @@
 |2.| 283 | [move Zero](https://leetcode.com/problems/move-zeroes/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/moveZero/moveZero.java)| easy | TRUE |
 |3.| 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)| [JAVA]()| medium | FALSE |
 |||||||
+
+> ##**Other**<br>
+
+> > || # | Title | Solution | Difficulty | isSolved |
+|---|---|---|---|---|---|
+|1.| - | [parse Int without parseInt()]| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/ParseInt.java)| - | TRUE |
+|||||||
