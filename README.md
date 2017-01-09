@@ -49,7 +49,13 @@
 |32.| 1924 | [WhatDay](https://www.acmicpc.net/problem/1924) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/WhatDay/MainPro1924.java) | - | TRUE |
 |33.| 4963 | [CountIsland](https://www.acmicpc.net/problem/4963) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/countIsland/MainPro4963.java)| - | TRUE |
 |34.| 2839 | [SugarShuttle](https://www.acmicpc.net/problem/2839) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SugarShuttle/MainPro2839.java)| - | TRUE |
-> > > Last Update date : 2016.12.20
+|35.| 1043| [Lie](https://www.acmicpc.net/problem/1043) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Liar/MainPro1043.java)| - | TRUE |
+|36.| 2789| [BanStudyOverSea](https://www.acmicpc.net/problem/2789)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BanStudyOversea/MainPro2789.java)| - | TRUE |
+|37.| 1260| [DFSnBFS](https://www.acmicpc.net/problem/1260)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DFSnBFS/MainPro1260.java)| - | TRUE |
+|38.| 1929| [getPrimeNumber](https://www.acmicpc.net/problem/1929)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GetPrimeNum/MainPro1929.java)| - | TRUE |
+|39.| 2178| [Labyrinth](https://www.acmicpc.net/problem/2178)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Labyrinth/MainPro2178.java)| - | FALSE |
+|||||||
+> > > Last Update date : 2017.01.09
 
 > ##**HandWriting**<br>
 
