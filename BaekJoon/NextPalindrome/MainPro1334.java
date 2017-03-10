@@ -9,7 +9,6 @@ public class MainPro1334 {
 		Scanner scan = new Scanner(System.in);
 
 		String n = scan.next();
-s
 		System.out.println(nextPalindrome(n));
 
 		scan.close();

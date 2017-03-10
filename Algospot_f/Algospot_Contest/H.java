@@ -44,8 +44,9 @@ public class H {
 		Point m_point = getPos(m_pos, map);
 		
 		for(int x = min(o_point.x, m_point.x) + 1;x < max(o_point.x, m_point.x);x++){
-			if(isOn(x1, y1, x2, y2, tx1, ty2))
+//			if(isOn(x1, y1, x2, y2, tx1, ty2))
 		}
+		return false;
 	}
 	public static int max(int a, int b){
 		return (a > b)?a:b;

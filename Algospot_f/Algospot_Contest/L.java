@@ -25,9 +25,10 @@ public class L {
 		int times = (r_index - l_index + 1) / lyric.length();
 		
 		int cnt_rem = countStr(lyric.substring(l_index, r_index), p);
-		int cnt_center = countStr(, p);
+//		int cnt_center = countStr(, p);
 		
-		return cnt_rem + cnt_center;
+//		return cnt_rem + cnt_center;
+		return -1;
 	}
 	public static int countStr(String target, String tester){
 		int cnt = 0;

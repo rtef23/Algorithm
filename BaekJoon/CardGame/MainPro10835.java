@@ -7,7 +7,7 @@ public class MainPro10835 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
-s
+
 		int n = scan.nextInt();
 		int l_max = 0;
 		int score = 0;
