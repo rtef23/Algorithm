@@ -54,6 +54,17 @@
 | 37. | 1260| [DFSnBFS](https://www.acmicpc.net/problem/1260)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DFSnBFS/MainPro1260.java)| - | TRUE |
 | 38. | 1929| [getPrimeNumber](https://www.acmicpc.net/problem/1929)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GetPrimeNum/MainPro1929.java)| - | TRUE |
 | 39. | 2178| [Labyrinth](https://www.acmicpc.net/problem/2178)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Labyrinth/MainPro2178.java)| - | FALSE |
+| 40. | 1028| [DiamondMin](https://www.acmicpc.net/problem/1028)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DiamondMine/MainPro1028.java)| - | FALSE |
+| 41. | 10809| [FindAlphabet](https://www.acmicpc.net/problem/10809)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/FindAlphabet/MainPro10809.java)| - | TRUE |
+| 42. | 2583| [GetAreaSize](https://www.acmicpc.net/problem/2583)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GetAreaSize/Main2583.java)| - | TRUE |
+| 43. | 1613| [History](https://www.acmicpc.net/problem/1613)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/History/Main1613.java)| - | TRUE |
+| 44. | 1890| [Jump](https://www.acmicpc.net/problem/1890)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Jump/MainPro1890.java)| - | FALSE |
+| 45. | 10816| [NumberCard](https://www.acmicpc.net/problem/10816)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/NumberCard/MainPro10816.java)| - | TRUE |
+| 46. | 12780| [OnePiece](https://www.acmicpc.net/problem/12780)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Onepiece/MainPro12780.java)| - | TRUE|
+| 47. | 1874| [StackedNumberArray](https://www.acmicpc.net/problem/1874)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/StackedNumberArray/Main1874.java)| - | TRUE |
+| 47. | 2675| [StrRepeat](https://www.acmicpc.net/problem/2675)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/StrRepeat/MainPro2675.java)| - | TRUE |
+| 48. | 6064| [KaingCalendar](https://www.acmicpc.net/problem/6064)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/kaingCal/MainPro6064.java)| - | TRUE |
+| 49. | 2775| [wannaBeMotherKing](https://www.acmicpc.net/problem/2775)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/wannaBeMotherKing/MainPro2775.java)| - | TRUE |
 | | | | | | |
 >>>Last Update date : 2017.01.09
 
@@ -64,6 +75,7 @@
 | 1. | 263 | [Ugly number](https://leetcode.com/problems/ugly-number/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/UglyNumber/UglyNumber.java)| easy | TRUE |
 | 2. | 283 | [move Zero](https://leetcode.com/problems/move-zeroes/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/moveZero/moveZero.java)| easy | TRUE |
 | 3. | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)| [JAVA]()| medium | FALSE |
+| 4. | ??? | [findComplement]()| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/findComplement/findComplement.java)| ??? | ??? |
 | | | | | | |
 >>>Last Update date : 2016.12.20
 
@@ -72,5 +84,7 @@
 | | # | Title | Solution | Difficulty | isSolved |
 |---|---|---|---|---|---|
 | 1. | - | [parse Int without parseInt()](https://github.com/rtef23/Algorithm/blob/master/MDfiles/parseInt.md)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/ParseInt.java)| - | TRUE |
+| 2. | - | [Combination]()| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/Combination.java) | - | TRUE |
+| 3. | - | [FibonacciWithoutRecursion]()| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/FibonacciWithoutRecursion.java)| - | TRUE |
 | | | | | | |
 >>>Last Update date : 2016.12.20
