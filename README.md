@@ -1,6 +1,6 @@
 > ##**Algospot**<br>
 
-> > || # | Title | Solution | Difficulty | isSolved |
+| | # | Title | Solution | Difficulty | isSolved |
 |---|---| ---| --- | ---| ---|
 | 1. | - | [Boggle](https://algospot.com/judge/problem/read/BOGGLE) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/BoggleGame/MainBoggle.java) | - | TRUE |
 | 2. | - | [Fence](https://algospot.com/judge/problem/read/FENCE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/FENCE/MainFence.java)| - | TRUE |
@@ -8,12 +8,12 @@
 | 4. | - | [Lecture](https://algospot.com/judge/problem/read/LECTURE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/LECTURE/MainLecture.java)| - | TRUE |
 | 5. | - | [NQueen](https://algospot.com/judge/problem/read/NQUEEN)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/NQueen/MainNQueen.java)| - | TRUE |
 | 6. | - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java)| - | TRUE |
-|||||||
+| | | | | | |
 > > > Last Update date : 2016.12.20
 
 > ##**Baekjoon**<br>
 
-> > || # | Title | Solution | Difficulty | isSolved |
+| | # | Title | Solution | Difficulty | isSolved |
 |---|---| ---| --- | ---| ---|
 | 1. | 10214 | [Baseball](https://acmicpc.net/problem/10214) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BaseBall/MainBaseBall.java) | - | TRUE |
 | 2. | 2193 | [BiFriend Number](https://acmicpc.net/problem/2193)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BiFriendNum/MainPro2193.java)| - | TRUE |
@@ -54,23 +54,23 @@
 | 37. | 1260| [DFSnBFS](https://www.acmicpc.net/problem/1260)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DFSnBFS/MainPro1260.java)| - | TRUE |
 | 38. | 1929| [getPrimeNumber](https://www.acmicpc.net/problem/1929)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GetPrimeNum/MainPro1929.java)| - | TRUE |
 | 39. | 2178| [Labyrinth](https://www.acmicpc.net/problem/2178)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Labyrinth/MainPro2178.java)| - | FALSE |
-|||||||
-> > > Last Update date : 2017.01.09
+| | | | | | |
+>>>Last Update date : 2017.01.09
 
-> ##**HandWriting**<br>
+>##**HandWriting**<br>
 
-> > || # | Title | Solution | Difficulty | isSolved|
+| | # | Title | Solution | Difficulty | isSolved|
 |---|---|---|---|---|---|
 | 1. | 263 | [Ugly number](https://leetcode.com/problems/ugly-number/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/UglyNumber/UglyNumber.java)| easy | TRUE |
 | 2. | 283 | [move Zero](https://leetcode.com/problems/move-zeroes/)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/HandWriting/moveZero/moveZero.java)| easy | TRUE |
 | 3. | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)| [JAVA]()| medium | FALSE |
-|||||||
-> > > Last Update date : 2016.12.20
+| | | | | | |
+>>>Last Update date : 2016.12.20
 
-> ##**Other**<br>
+>##**Other**<br>
 
-> > || # | Title | Solution | Difficulty | isSolved |
+| | # | Title | Solution | Difficulty | isSolved |
 |---|---|---|---|---|---|
 | 1. | - | [parse Int without parseInt()](https://github.com/rtef23/Algorithm/blob/master/MDfiles/parseInt.md)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/ParseInt.java)| - | TRUE |
-|||||||
-> > > Last Update date : 2016.12.20
+| | | | | | |
+>>>Last Update date : 2016.12.20
