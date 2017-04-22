@@ -1,55 +1,65 @@
 package Labyrinth;
 
-import java.util.Arrays;
 import java.util.Scanner;
-import java.util.StringTokenizer;
-
-import com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Array;
 
 public class MainPro2178 {
-
+	private static final int dlen = 4;
+	private static final int dx[] = {-1, 0, 1, 0};
+	private static final int dy[] = {0, -1, 0, 1};
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		int n, m;
 		boolean map[][];
-		String line;
-		StringTokenizer tok;
+		String input;
 		
-		line = scan.nextLine();
-		
-		tok = new StringTokenizer(line, " ");
-		n = Integer.parseInt(tok.nextToken());
-		m = Integer.parseInt(tok.nextToken());
+		n = scan.nextInt();
+		m = scan.nextInt();
 		
 		map = new boolean[n][m];
 		for(int i = 0;i < n;i++){
-			line = scan.nextLine();
-			char c[] = line.toCharArray();
+			input = scan.next();
 			for(int j = 0;j < m;j++){
-				map[i][j] = c[j] == '1';
+				map[i][j] = (input.charAt(j) == '1')?true:false;
 			}
 		}
 		
-		S(n, m, map);
+		System.out.println(computeWay(map, n, m));
 		
 		scan.close();
 	}
-	public static int S(int n, int m, boolean map[][]){
-		int cnt = 0;
-		
-		boolean memo[][][] = new boolean[2][n][m];
-		
-		
-		return cnt;
+	public static int computeWay(boolean map[][], int n, int m){
+		int memo[][] = new int[n][m];
+		memo[0][0] = 1;
+		return computeWay(map, n, m, memo, 1);
 	}
-	public static void printArr(boolean a[][]){
-		for(int i = 0;i < a.length;i++){
-			for(int j = 0;j < a[i].length;j++){
-				System.out.printf("[%d][%d] %b\t", i, j, a[i][j]);
-			}
-			System.out.println();
+	public static int computeWay(boolean map[][], int n, int m, int memo[][], int depth){
+		if(memo[n-1][m-1] != 0){
+			return memo[n-1][m-1];
 		}
+		
+		for(int i = 0;i < n;i++){
+			for(int j = 0;j < m;j++){
+				if(memo[i][j] == depth){
+					for(int k = 0;k < dlen;k++){
+						int target_y = i + dy[k];
+						int target_x = j + dx[k];
+						
+						if(target_x < 0 || target_x >= m){
+							continue;
+						}
+						if(target_y < 0 || target_y >= n){
+							continue;
+						}
+						if(!map[target_y][target_x] || memo[target_y][target_x] != 0){
+							continue;
+						}
+						memo[target_y][target_x] = depth+1;
+					}
+				}
+			}
+		}
+		return computeWay(map, n, m, memo, depth+1);
 	}
-
 }
