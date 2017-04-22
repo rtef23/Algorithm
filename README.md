@@ -53,7 +53,7 @@
 | 36. | 2789| [BanStudyOverSea](https://www.acmicpc.net/problem/2789)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/BanStudyOversea/MainPro2789.java)| - | TRUE |
 | 37. | 1260| [DFSnBFS](https://www.acmicpc.net/problem/1260)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DFSnBFS/MainPro1260.java)| - | TRUE |
 | 38. | 1929| [getPrimeNumber](https://www.acmicpc.net/problem/1929)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GetPrimeNum/MainPro1929.java)| - | TRUE |
-| 39. | 2178| [Labyrinth](https://www.acmicpc.net/problem/2178)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Labyrinth/MainPro2178.java)| - | FALSE |
+| 39. | 2178| [Labyrinth](https://www.acmicpc.net/problem/2178)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Labyrinth/MainPro2178.java)| - | TRUE |
 | 40. | 1028| [DiamondMin](https://www.acmicpc.net/problem/1028)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/DiamondMine/MainPro1028.java)| - | FALSE |
 | 41. | 10809| [FindAlphabet](https://www.acmicpc.net/problem/10809)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/FindAlphabet/MainPro10809.java)| - | TRUE |
 | 42. | 2583| [GetAreaSize](https://www.acmicpc.net/problem/2583)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GetAreaSize/Main2583.java)| - | TRUE |
@@ -65,8 +65,22 @@
 | 47. | 2675| [StrRepeat](https://www.acmicpc.net/problem/2675)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/StrRepeat/MainPro2675.java)| - | TRUE |
 | 48. | 6064| [KaingCalendar](https://www.acmicpc.net/problem/6064)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/kaingCal/MainPro6064.java)| - | TRUE |
 | 49. | 2775| [wannaBeMotherKing](https://www.acmicpc.net/problem/2775)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/wannaBeMotherKing/MainPro2775.java)| - | TRUE |
+| 50. | 6568| [Calculator](https://www.acmicpc.net/problem/6568)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Calculator/MainPro6568_1.java)| - | FALSE |
+| 51. | 1080| [ConvertMetrix](https://www.acmicpc.net/problem/1080)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/ConvertMetrix/MainPro1080.java)| - | TRUE |
+| 52. | 5373| [Cubing](https://www.acmicpc.net/problem/5373)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Cubing/MainPro5373.java)| - | FALSE |
+| 53. | 11403| [findPath](https://www.acmicpc.net/problem/11403)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/FindPath/MainPro11403.java)| - | TRUE |
+| 54. | 1753| [findPath2](https://www.acmicpc.net/problem/1753)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/FindPath/MainPro1753.java)| - | TRUE |
+| 55. | 6588| [Goldbach'sConjection](https://www.acmicpc.net/problem/6588)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GoldbachConjecture/MainPro6588.java)| - | TRUE |
+| 56. | 1697| [Hide&Seek](https://www.acmicpc.net/problem/1697)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/HideAndSeek/MainPro1697.java)| - | TRUE |
+| 57. | 8958| [OXQuiz](https://www.acmicpc.net/problem/8958)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/OX/MainPro8958.java)| - | TRUE |
+| 58. | 1065| [OneNumber](https://www.acmicpc.net/problem/1065)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/OneNumber/MainPro1065.java)| - | TRUE |
+| 59. | 4344| [RateAVG](https://www.acmicpc.net/problem/4344)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/RateAvg/MainPro4344.java)| - | TRUE |
+| 60. | 10060| [SecretCamera](https://www.acmicpc.net/problem/10060)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SecretCamera/MainPro10060.java)| - | FALSE |
+| 61. | 2309| [SevenDwalf](https://www.acmicpc.net/problem/2309)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SnowWhite/MainPro2309.java)| - | FALSE |
+| 62. | 2750| [Sort](https://www.acmicpc.net/problem/2750)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Sort/MainPro2750.java)| - | TRUE |
+| 63. | 1707| [BinaryDividableGraph](https://www.acmicpc.net/problem/1707)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/isBinaryDividableGraph/MainPro1707.java)| - | FALSE |
 | | | | | | |
->>>Last Update date : 2017.03.15
+>>>Last Update date : 2017.04.22
 
 >##**HandWriting**<br>
 
@@ -86,5 +100,9 @@
 | 1. | - | [parse Int without parseInt()](https://github.com/rtef23/Algorithm/blob/master/MDfiles/parseInt.md)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/ParseInt.java)| - | TRUE |
 | 2. | - | [Combination]()| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/Combination.java) | - | TRUE |
 | 3. | - | [FibonacciWithoutRecursion]()| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/Algorithm/FibonacciWithoutRecursion.java)| - | TRUE |
+| 4. | - | [CodeJam-QR A](https://code.google.com/codejam/contest/5304486/dashboard#s=p0)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/CodeJam2017_QR/A.java)| - | TRUE |
+| 5. | - | [CodeJam-QR B](https://code.google.com/codejam/contest/5304486/dashboard#s=p1)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/CodeJam2017_QR/B.java)| - | TRUE |
+| 6. | - | [CodeJam-QR C](https://code.google.com/codejam/contest/5304486/dashboard#s=p2)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/others/CodeJam2017_QR/C.java)| - | TRUE |
 | | | | | | |
->>>Last Update date : 2017.03.15
+
+>>>Last Update date : 2017.04.22
