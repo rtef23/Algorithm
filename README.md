@@ -2,14 +2,15 @@
 
 | | # | Title | Solution | Difficulty | isSolved |
 |---|---| ---| --- | ---| ---|
-| 1. | - | [Boggle](https://algospot.com/judge/problem/read/BOGGLE) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/BoggleGame/MainBoggle.java) | - | TRUE |
+| 1. | - | [Boggle](https://algospot.com/judge/problem/read/BOGGLE) | [JAVA1](https://github.com/rtef23/Algorithm/blob/master/Algospot/BoggleGame/MainBoggle.java) [JAVA2](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/BoggleGame/MainBoggle2.java) | - | TRUE |
 | 2. | - | [Fence](https://algospot.com/judge/problem/read/FENCE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/FENCE/MainFence.java)| - | TRUE |
 | 3. | - | [JLIS](https://algospot.com/judge/problem/read/JLIS)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/JLIS/MainJLIS.java)| - | TRUE |
 | 4. | - | [Lecture](https://algospot.com/judge/problem/read/LECTURE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/LECTURE/MainLecture.java)| - | TRUE |
 | 5. | - | [NQueen](https://algospot.com/judge/problem/read/NQUEEN)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/NQueen/MainNQueen.java)| - | TRUE |
 | 6. | - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java)| - | TRUE |
-| | | | | | |
-> > > Last Update date : 2016.12.20
+| 7. | - | [Picnic](https://algospot.com/judge/problem/read/PICNIC) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Picnic/MainPicnic2.java) | -  | TRUE |
+||||||
+> > > Last Update date : 2017.05.04
 
 > ##**Baekjoon**<br>
 
@@ -79,8 +80,13 @@
 | 61. | 2309| [SevenDwalf](https://www.acmicpc.net/problem/2309)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SnowWhite/MainPro2309.java)| - | FALSE |
 | 62. | 2750| [Sort](https://www.acmicpc.net/problem/2750)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Sort/MainPro2750.java)| - | TRUE |
 | 63. | 1707| [BinaryDividableGraph](https://www.acmicpc.net/problem/1707)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/isBinaryDividableGraph/MainPro1707.java)| - | FALSE |
+| 64. | 11000| [AssignRoom](https://www.acmicpc.net/problem/11000)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/AssignRoom/MainPro11000.java) | -  | TRUE |
+| 65. | 3613| [Converter](https://www.acmicpc.net/problem/3613)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Converter/MainPro3613.java)| - | TRUE |
+| 66. | 5355| [MarsMath](https://www.acmicpc.net/problem/5355)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/MarsMath/MainPro5355.java)| - | TRUE |
+| 67. | 2225| [DepositionSum](https://www.acmicpc.net/problem/2225)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SumDeposition/MainPro2225.java)| - | FALSE |
+| 68. | 13538| [XOR Query](https://www.acmicpc.net/problem/13538)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/XORQuery/MainPro13538.java)| - | FALSE |
 | | | | | | |
->>>Last Update date : 2017.04.22
+>>>Last Update date : 2017.05.04
 
 >##**HandWriting**<br>
 
