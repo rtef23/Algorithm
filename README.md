@@ -42,7 +42,7 @@
 | 24. | 11057 | [Rising number](https://acmicpc.net/problem/11057)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/RisingNum/MainPro11057.java)| - | TRUE |
 | 25. | 11052 | [sell fish-bread](https://acmicpc.net/problem/11052)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SellBoung_a_bread/MainPro11052.java)| - | TRUE |
 | 26. | 10844 | [stair number](https://acmicpc.net/problem/10844)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/StairNum/MainPro10844.java)| - | TRUE|
-| 27. | 1182 | [Sum of partial set](https://acmicpc.net/problem/1182)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SumOfPartialSet/MainPro1182.java)| - | FALSE|
+| 27. | 1182 | [Sum of partial set](https://acmicpc.net/problem/1182)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SumOfPartialSet/MainPro1182.java)| - | TRUE|
 | 28. | 11726 | [2xN Tiling 1](https://acmicpc.net/problem/11726)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Tiling/MainPro11726.java)| - | TRUE |
 | 29. | 11727 | [2xN Tiling 2](https://acmicpc.net/problem/11727)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Tiling/MainPro11727.java)| - | TRUE |
 | 30. | 2133 | [fill Tile](https://acmicpc.net/problem/2133)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Tiling/MainPro2133.java)| - | TRUE |
@@ -85,8 +85,14 @@
 | 66. | 5355| [MarsMath](https://www.acmicpc.net/problem/5355)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/MarsMath/MainPro5355.java)| - | TRUE |
 | 67. | 2225| [DepositionSum](https://www.acmicpc.net/problem/2225)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SumDeposition/MainPro2225.java)| - | FALSE |
 | 68. | 13538| [XOR Query](https://www.acmicpc.net/problem/13538)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/XORQuery/MainPro13538.java)| - | FALSE |
+| 69. | 1021| [Circular Queue](https://www.acmicpc.net/problem/1021)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/CircularQueue/MainPro1021.java)| - | TRUE |
+| 70. | 11051| [Combination](https://www.acmicpc.net/problem/11051)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Combination/MainPro11051.java)| - | TRUE |
+| 71. | 1256| [Dictionary](https://www.acmicpc.net/problem/1256)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Dictionary/MainPro1256.java)| - | FALSE |
+| 72. | 14495| [LikeFibbonacci](https://www.acmicpc.net/problem/14495)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/LikeFibbonacci/MainPro14495.java)| - | TRUE |
+| 73. | 1726| [Robot](https://www.acmicpc.net/problem/1726)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Robot/MainPro1726.java)| - | FALSE |
+| 74. | 11280| [2-SAT](https://www.acmicpc.net/problem/11280)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Sat2/MainPro11280.java)| - | FALSE |
 | | | | | | |
->>>Last Update date : 2017.05.04
+>>>Last Update date : 2017.05.16
 
 >##**HandWriting**<br>
 
