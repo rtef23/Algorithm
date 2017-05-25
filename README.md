@@ -91,8 +91,15 @@
 | 72. | 14495| [LikeFibbonacci](https://www.acmicpc.net/problem/14495)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/LikeFibbonacci/MainPro14495.java)| - | TRUE |
 | 73. | 1726| [Robot](https://www.acmicpc.net/problem/1726)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Robot/MainPro1726.java)| - | FALSE |
 | 74. | 11280| [2-SAT](https://www.acmicpc.net/problem/11280)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/Sat2/MainPro11280.java)| - | FALSE |
+| 75. | 1937| [Greedy Panda](https://www.acmicpc.net/problem/1937)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/GreedyPanda/MainPro1937.java)| - | TRUE |
+| 76. | 5214| [HyperCube](https://www.acmicpc.net/problem/5214)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/HyperCube/MainPro5214.java)| - | TRUE |
+| 77. | 1965| [Box Insertion](https://www.acmicpc.net/problem/1965)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/InsertionBox/MainPro1965.java)| - | TRUE |
+| 78. | 10815| [Number Card](https://www.acmicpc.net/problem/10815)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/NumberCard/MainPro10815.java)| - | TRUE |
+| 79. | 10430| [Rest](https://www.acmicpc.net/problem/10430)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/RestValue/MainPro10430.java)| - | TRUE |
+| 80. | 1427| [Sort Inside](https://www.acmicpc.net/problem/1427)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SortInside/MainPro1427.java)| - | TRUE |
 | | | | | | |
->>>Last Update date : 2017.05.16
+
+>>>Last Update date : 2017.05.25
 
 >##**HandWriting**<br>
 
