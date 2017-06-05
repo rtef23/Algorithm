@@ -3,14 +3,20 @@
 | | # | Title | Solution | Difficulty | isSolved |
 |---|---| ---| --- | ---| ---|
 | 1. | - | [Boggle](https://algospot.com/judge/problem/read/BOGGLE) | [JAVA1](https://github.com/rtef23/Algorithm/blob/master/Algospot/BoggleGame/MainBoggle.java) [JAVA2](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/BoggleGame/MainBoggle2.java) | - | TRUE |
-| 2. | - | [Fence](https://algospot.com/judge/problem/read/FENCE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/FENCE/MainFence.java)| - | TRUE |
+| 2. | - | [Fence](https://algospot.com/judge/problem/read/FENCE)| [JAVA1](https://github.com/rtef23/Algorithm/blob/master/Algospot/FENCE/MainFence.java) [JAVA2](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/FENCE/MainFence1.java)| - | TRUE |
 | 3. | - | [JLIS](https://algospot.com/judge/problem/read/JLIS)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/JLIS/MainJLIS.java)| - | TRUE |
 | 4. | - | [Lecture](https://algospot.com/judge/problem/read/LECTURE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/LECTURE/MainLecture.java)| - | TRUE |
 | 5. | - | [NQueen](https://algospot.com/judge/problem/read/NQUEEN)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/NQueen/MainNQueen.java)| - | TRUE |
-| 6. | - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java)| - | TRUE |
+| 6. | - | [QuadTree](https://algospot.com/judge/problem/read/QUADTREE)| [JAVA1](https://github.com/rtef23/Algorithm/blob/master/Algospot/QuodTree/MainQuod.java) [JAVA2](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/QuodTree/MainQuad1.java)| - | TRUE |
 | 7. | - | [Picnic](https://algospot.com/judge/problem/read/PICNIC) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Picnic/MainPicnic2.java) | -  | TRUE |
-||||||
-> > > Last Update date : 2017.05.04
+| 8. | - | [BoardCover](https://algospot.com/judge/problem/read/BOARDCOVER) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/BoardCover/MainBoardCover.java) | - | TRUE |
+| 9. | - | [ClockSync](https://algospot.com/judge/problem/read/CLOCKSYNC) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/ClockSync/MainClockSync.java)| - | TRUE |
+| 10. | - | [FanMeeting](https://algospot.com/judge/problem/read/FANMEETING)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Fanmeeting/MainFanMeeting.java)| - | FALSE |
+| 11. | - | [JumpGame](https://algospot.com/judge/problem/read/JUMPGAME)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/JumpGame/MainJump.java)| - | TRUE|
+| 12. | - | [TrianglePath](https://algospot.com/judge/problem/read/TRIANGLEPATH) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/TrianglePath/MainTri.java) | - | TRUE |
+| 13. | - | [WildCard](https://algospot.com/judge/problem/read/WILDCARD) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/WILDCARD/MainWild.java)| - | TRUE |
+| | | | | | |
+> > > Last Update date : 2017.06.05
 
 > ##**Baekjoon**<br>
 
@@ -97,9 +103,14 @@
 | 78. | 10815| [Number Card](https://www.acmicpc.net/problem/10815)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/NumberCard/MainPro10815.java)| - | TRUE |
 | 79. | 10430| [Rest](https://www.acmicpc.net/problem/10430)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/RestValue/MainPro10430.java)| - | TRUE |
 | 80. | 1427| [Sort Inside](https://www.acmicpc.net/problem/1427)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SortInside/MainPro1427.java)| - | TRUE |
+| 81. | 9934 | [Complete Binary Tree](https://www.acmicpc.net/problem/9934)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/CompleteBinaryTree/MainPro9934.java)| - | TRUE |
+| 82. | 2577 | [CountNumber](https://www.acmicpc.net/problem/2577) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/CountNumber/MainPro2577.java)| - | TRUE |
+| 83. | 10798 | [ReadVertical](https://www.acmicpc.net/problem/10798)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/ReadVertical/MainPro10798.java)| - | TRUE |
+| 84. | 13448 | [SW test](https://www.acmicpc.net/problem/13448)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SWtest/MainPro13448.java)| - | FALSE |
+| 85. | 9996 | [WhenKoreaMiss](https://www.acmicpc.net/problem/9996)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/WhenKoreaMiss/MainPro9996.java)| - | TRUE |
 | | | | | | |
 
->>>Last Update date : 2017.05.25
+>>>Last Update date : 2017.06.05
 
 >##**HandWriting**<br>
 
