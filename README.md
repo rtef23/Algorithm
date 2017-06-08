@@ -15,8 +15,16 @@
 | 11. | - | [JumpGame](https://algospot.com/judge/problem/read/JUMPGAME)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/JumpGame/MainJump.java)| - | TRUE|
 | 12. | - | [TrianglePath](https://algospot.com/judge/problem/read/TRIANGLEPATH) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/TrianglePath/MainTri.java) | - | TRUE |
 | 13. | - | [WildCard](https://algospot.com/judge/problem/read/WILDCARD) | [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/WILDCARD/MainWild.java)| - | TRUE |
+| 14. | - | [AsymTiling](https://algospot.com/judge/problem/read/ASYMTILING)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Asymtiling/MainAsymTiling.java)| - | TRUE |
+| 15. | - | [LIS](https://algospot.com/judge/problem/read/LIS)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/LIS/MainLIS.java)| - | TRUE |
+| 16. | - | [PI](https://algospot.com/judge/problem/read/PI)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/PI/MainPi.java)| - | TRUE |
+| 17. | - | [POLY](https://algospot.com/judge/problem/read/POLY)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Poly/MainPoly.java)| - | TRUE |
+| 18. | - | [QUANTI](https://algospot.com/judge/problem/read/QUANTIZE)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Quantization/MainQuantization.java)| - | FALSE |
+| 19. | - | [SNAIL](https://algospot.com/judge/problem/read/SNAIL)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Snail/MainSnail.java)| - | TRUE |
+| 20. | - | [TILING2](https://algospot.com/judge/problem/read/TILING2)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Tiling2/MainTiling2.java)| - | TRUE |
+| 21. | - | [TRIPATHCNT](https://algospot.com/judge/problem/read/TRIPATHCNT)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/TripathCnt/MainTriPathCnt.java)| - | TRUE |
 | | | | | | |
-> > > Last Update date : 2017.06.05
+> > > Last Update date : 2017.06.08
 
 > ##**Baekjoon**<br>
 
