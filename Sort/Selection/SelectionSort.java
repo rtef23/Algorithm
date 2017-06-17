@@ -1,73 +1,29 @@
 package Selection;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
+import java.util.Arrays;
 
 public class SelectionSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		try {
-			Scanner scan = new Scanner(new FileInputStream(new File("in.txt")));
-			BufferedWriter bw = new BufferedWriter(new FileWriter(new File("out.txt")));
-			
-			int t;
-			int n;
-			int arr[];
-			
-			t = scan.nextInt();
-			
-			for(int i = 0;i < t;i++){
-				n = scan.nextInt();
-				arr = new int[n];
-				StringBuffer sbuf = new StringBuffer();
-				
-				for(int j = 0;j < n;j++){
-					arr[j] = scan.nextInt();
-				}
-				
-				selectionsort(arr, n);
-				System.out.println();
-				
-				for(int j = 0;j < n;j++)
-					sbuf.append(arr[j] + "\t");
-				sbuf.append('\n');
-				
-				bw.write(sbuf.toString());
-			}
-			
-			scan.close();
-			bw.close();
-		} catch (IOException e) {
-			// TODO: handle exception
-			e.printStackTrace();
-		}
+		int n = 10;
+		int arr[] = {3, 6, 1, 2, 7, 4, 11, 9, 2, 3};
+		System.out.println("before");
+		System.out.println(Arrays.toString(arr));
+		selection(arr, n);
+		System.out.println("after");
+		System.out.println(Arrays.toString(arr));
 	}
-	private static int[] selectionsort(int arr[], int n){
+	private static void selection(int arr[], int n){
 		for(int i = 0;i < n;i++){
 			for(int j = i + 1;j < n;j++){
 				if(arr[i] > arr[j]){
-					//ascending order
 					int tmp = arr[i];
 					arr[i] = arr[j];
 					arr[j] = tmp;
 				}
 			}
-			System.out.printf("[phase %d]\t:\t", i+1);
-			printArr(arr, n);
 		}
-		
-		return arr;
 	}
-	private static void printArr(int arr[], int n){
-		System.out.print('[');
-		for(int i = 0;i < n;i++){
-			System.out.printf("%d, ", arr[i]);
-		}
-		System.out.println(']');
-	}
+	
 }
