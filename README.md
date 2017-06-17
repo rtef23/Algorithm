@@ -26,7 +26,7 @@
 | 22. | - | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Numb3rs/MainNumb3rs.java)| - | TRUE |
 | 23. | - | [PACKING](https://algospot.com/judge/problem/read/PACKING)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/Algospot_f/Packing/MainPacking.java)| - | FALSE |
 | | | | | | |
-> > > Last Update date : 2017.06.08
+> > > Last Update date : 2017.06.17
 
 > ##**Baekjoon**<br>
 
@@ -121,7 +121,7 @@
 | 86. | 1789 | [SumOfNums](https://www.acmicpc.net/problem/1789)| [JAVA](https://github.com/rtef23/Algorithm/blob/master/BaekJoon/SumOfNums/MainPro1789.java)| - | FALSE |
 | | | | | | |
 
->>>Last Update date : 2017.06.05
+>>>Last Update date : 2017.06.17
 
 >##**HandWriting**<br>
 
