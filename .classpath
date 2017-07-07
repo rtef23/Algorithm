@@ -5,6 +5,7 @@
 	<classpathentry kind="src" path="HandWriting"/>
 	<classpathentry kind="src" path="others"/>
 	<classpathentry kind="src" path="Sort"/>
+	<classpathentry kind="src" path="CodingInterview"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

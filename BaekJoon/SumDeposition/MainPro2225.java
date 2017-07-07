@@ -4,8 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class MainPro2225 {
-	private static final float limit = 1000000000f;
-	private static final float init = -1f;
+	private static final float mod = 1000000000f;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
@@ -20,32 +19,35 @@ public class MainPro2225 {
 	public static float F(int n, int k){
 		float memo[][] = new float[n+1][k+1];
 		for(int i = 0;i <= n;i++){
-			Arrays.fill(memo[i], init);
+			Arrays.fill(memo[i], -1);
 		}
 		return F(memo, n, k);
 	}
 	public static float F(float memo[][], int n, int k){
-		if(memo[n][k] != init){
+		/*
+		 * F(n, k) : k개의 정수의 합이 n이 되는 갯수 
+		 * F(n, k) = Sum(F(n, k - 1) + ... + F(n, 1))
+		 * F(n, 1) = 1
+		 * F(n, 0) = 0
+		 * F(1, k) = k
+		 * F(0, k) = 1
+		 * */
+		if(memo[n][k] != -1)
 			return memo[n][k];
-		}
-		if(k <= 1 || n <= 0){
+		if(k == 0)
+			return 0;
+		if(k == 1)
 			return 1;
+		if(n == 0)
+			return 1;
+		if(n == 1)
+			return k;
+		
+		float ret = 0;
+		for(int i = 0;i <= n;i++){
+			ret += (F(memo, n - i, k - 1) % mod);
+			ret %= mod;
 		}
-		int cnt = 0;
-		int mid = (n % 2 == 0)?n/2-1:n/2;
-		for(int i = 0;i <= mid;i++){
-			for(int j = 1;j < k;j++){
-				cnt += (2 * ((F(memo, i, k-j) % limit) * (F(memo, n-i, j) % limit))) % limit;
-				cnt %= limit;
-			}
-		}
-		if(n % 2 == 0){
-			for(int j = 1;j < k;j++){
-				cnt += (F(memo, n/2, k - j) % limit) * (F(memo, n/2, j) % limit) % limit;
-				cnt %= limit;
-			}
-		}
-		memo[n][k] = cnt;
-		return memo[n][k];
+		return (memo[n][k] = ret);
 	}
 }
